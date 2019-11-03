@@ -1,0 +1,14 @@
+One time only:
+reference rasters (snow climo, etc.) translated to netcdf raster coordinates (need netcdf to raster
+
+
+access bin files and degrib to .nc files
+getNDFDtest.py
+
+
+
+
+
+
+read .nc files into xarray
+xarray.py
